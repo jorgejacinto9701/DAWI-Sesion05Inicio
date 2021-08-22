@@ -1,4 +1,4 @@
-# DAWI-Sesion04Inicio
+# DAWI-Sesion05Inicio
 ### CRUD de una tabla en JPA
 
 ## Autor ✒️
